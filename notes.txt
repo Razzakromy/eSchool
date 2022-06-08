@@ -1,0 +1,32 @@
+Project Name: E-School
+
+Font-Family: 
+    Poppins
+        400
+        500
+        700
+
+    Roboto
+        400
+
+Color:
+#F0FFF0;
+#21B573;
+#000000;
+#585859;
+#413960;
+#FFFFFF;
+
+hover - #FD511A;
+
+
+
+
+Header 
+
+
+Layout
+Section 
+Semantic Markup 
+Reusable Code 
+Code Repeatation Avoid 
