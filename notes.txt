@@ -19,11 +19,12 @@ Color:
 
 hover - #FD511A;
 
-
-
-
 Header 
+Banner 
+xxl/xl/lg   -   md  -   sm/col
 
+padding-35/65   10/65
+h1-xxl/xl-48 lg-40  md-35   
 
 Layout
 Section 

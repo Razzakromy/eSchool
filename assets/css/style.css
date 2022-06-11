@@ -18,6 +18,8 @@ body {
     font-size: 16px;
     font-weight: 400;
     color: #413960;
+    margin:0;
+    padding: 0;
 }
 
 /* Common End */
@@ -59,3 +61,43 @@ header {
 }
 
 /* Header End */
+
+/* Banner Start */
+.banner {
+    padding: 35px 0 65px;
+    background-color: #F0FFF0;
+}
+
+.b_text {}
+
+.b_red {
+    color: #FD511A;
+    line-height: 24px;
+}
+
+.b_h1 {
+    margin: 10px 0px 20px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    color: rgb(0, 0, 0);
+    padding-right: 100px;
+}
+
+.b_h1 span {
+    color: #21B573;
+}
+
+.b_black {
+    line-height: 36px;
+}
+.btn_banner{
+    margin-top: 15px;
+    padding: 12px 36px;
+}
+.b_img {}
+
+.b_img img {}
+
+
+/* Banner End */
