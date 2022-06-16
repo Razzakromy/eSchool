@@ -16,6 +16,9 @@ body {
 h1.h2, h3, h4, h5, h5, h6, p, ul, li {
     margin-bottom: 0;
 }
+a{
+    text-decoration: none;
+}
 
 /* Common End */
 
@@ -144,7 +147,9 @@ header {
 /* Feature End */
 
 /* Courses Start */
-.courses {padding-bottom: 100px;}
+.courses {
+    padding-bottom: 100px;
+}
 
 .c_title {}
 
@@ -196,7 +201,7 @@ header {
 
 .date ul li {}
 
-.date ul li img,.seat ul li img {
+.date ul li img, .seat ul li img {
     width: 18px;
 }
 
@@ -210,10 +215,44 @@ header {
 .seat ul {}
 
 .seat ul li {}
+
 .seat ul li img {
     width: 20px;
 }
 
-
-
 /* Courses End */
+
+/* Testimonial Start */
+.testimonial {
+    padding-bottom: 100px;
+}
+.car_m{margin-top: 75px;}
+.t_img {
+}
+.t_img img{
+}
+
+.t_text {
+}
+.t_text p{
+    line-height: 30px;
+}
+
+/* Testimonial End */
+
+/* Footer Start */
+footer{padding: 50px 0 50px;
+    background: #282531;
+color: #fff;
+}
+.f_2 ul li:first-child{
+    font-weight: 700;
+}
+.f_1 p,.f_2 ul li a{
+    line-height: 30px;
+    color: #fff;
+}
+.f_3{
+    margin-top: 75px;
+}
+/* Footer End */

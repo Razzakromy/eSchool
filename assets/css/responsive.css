@@ -67,6 +67,39 @@
     .date ul li span, .seat ul li span {
         font-size: 14px;
     }
+    /* Testimonial */
+    .testimonial {
+        padding-bottom: 35px;
+    }
+    .car_m{margin-top: 20px;}
+    /* Testimonial */
+    .testimonial {
+        padding-bottom: 50px;
+    }
+    .car_m{margin-top: 30px;}
+    .t_text{margin-top: 15px;
+    }
+    .t_text p{font-size: 14px;
+        line-height: 17px;
+    }
+     /* Footer */
+     footer{padding: 50px 0 25px;
+     }
+     .f_1{
+        text-align: center;
+     }
+     .f_1 p,.f_2 ul li a{
+        font-size: 14px;
+        line-height: 18px;
+        color: #fff;
+    }
+    .fs_m{
+        margin-top: 10px;
+    }
+    .f_3{
+        margin-top: 30px;
+        font-size: 14px;
+    }
 }
 
 
@@ -125,6 +158,31 @@
     .btn_courses {
         margin: 10px 0 15px;
     }
+    /* Testimonial */
+    .testimonial {
+        padding-bottom: 50px;
+    }
+    .car_m{margin-top: 30px;}
+    .t_text p{font-size: 14px;
+        line-height: 18px;
+    }
+     /* Footer */
+     footer{padding: 50px 0 25px;
+     }
+     .f_1{
+        text-align: center;
+     }
+     .f_2{
+        margin-top: 15px;
+     }
+     .f_1 p,.f_2 ul li a{
+        font-size: 14px;
+        line-height: 18px;
+        color: #fff;
+    }
+    .f_3{
+        margin-top: 30px;
+    }
 }
 
 
@@ -178,6 +236,29 @@
     }
     .btn_courses {
         margin: 10px 0 20px;
+    }
+    /* Testimonial */
+    .testimonial {
+        padding-bottom: 80px;
+    }
+    .car_m{margin-top: 45px;}
+    .t_text p{
+        line-height: 24px;
+    }
+    /* Footer */
+    footer{padding: 50px 0 25px;
+    }
+    .f_1{
+        text-align: center;
+     }
+     .f_2{margin-top: 25px;}
+    .f_1 p,.f_2 ul li a{
+        font-size: 14px;
+        line-height: 18px;
+        color: #fff;
+    }
+    .f_3{
+        margin-top: 45px;
     }
 }
 
