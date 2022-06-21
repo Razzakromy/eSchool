@@ -65,7 +65,7 @@
     }
 
     .date ul li span, .seat ul li span {
-        font-size: 14px;
+        font-size: 15px;
     }
     /* Testimonial */
     .testimonial {
@@ -79,26 +79,26 @@
     .car_m{margin-top: 30px;}
     .t_text{margin-top: 15px;
     }
-    .t_text p{font-size: 14px;
-        line-height: 17px;
+    .t_text p{font-size: 15px;
+        line-height: 21px;
     }
      /* Footer */
      footer{padding: 50px 0 25px;
      }
      .f_1{
-        text-align: center;
+        text-align: left;
      }
      .f_1 p,.f_2 ul li a{
-        font-size: 14px;
-        line-height: 18px;
+        font-size: 15px;
+        line-height: 22px;
         color: #fff;
     }
     .fs_m{
-        margin-top: 10px;
+        margin-top: 20px;
     }
     .f_3{
         margin-top: 30px;
-        font-size: 14px;
+        font-size: 15px;
     }
 }
 
@@ -163,8 +163,8 @@
         padding-bottom: 50px;
     }
     .car_m{margin-top: 30px;}
-    .t_text p{font-size: 14px;
-        line-height: 18px;
+    .t_text p{font-size: 15px;
+        line-height: 21px;
     }
      /* Footer */
      footer{padding: 50px 0 25px;

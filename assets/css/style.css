@@ -163,6 +163,7 @@ header {
 }
 
 .c_item {
+    overflow: hidden;
     margin-top: 60px;
     padding: 25px 20px 30px;
     background: #FFFFFF;
